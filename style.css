@@ -1,0 +1,26 @@
+body{
+    background-color: green;
+    
+}
+h1{
+    font-style: italic;
+    color: pink
+}
+p{
+    color: blue;
+    
+}
+h3{
+    border: 6px solid yellow;
+    border-radius: 10px;
+    text-align: center;
+    color: maroon;
+}
+input{
+    color: red;
+}
+button{
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
